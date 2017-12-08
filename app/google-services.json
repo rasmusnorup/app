@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "391625304486",
+    "firebase_url": "https://daphnidatingfirebase-66521.firebaseio.com",
+    "project_id": "daphnidatingfirebase-66521",
+    "storage_bucket": "daphnidatingfirebase-66521.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391625304486:android:330229a63ab5034b",
+        "android_client_info": {
+          "package_name": "au.grp3.dat4.daphnidating"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391625304486-bsiqk5iglbh7dc9i4br0j04pji2smesh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "au.grp3.dat4.daphnidating",
+            "certificate_hash": "66906e965e4431850853b8b36bc29e4c1b9b9b06"
+          }
+        },
+        {
+          "client_id": "391625304486-gug5cdrfaeobe3ha5vpnohrdrjfrp0ri.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "au.grp3.dat4.daphnidating",
+            "certificate_hash": "9e875e05609c7607977db148ca97ca023232a9e0"
+          }
+        },
+        {
+          "client_id": "391625304486-f92tkkhhk1cl3bjs1jqqs2q34uq0ja87.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "au.grp3.dat4.daphnidating",
+            "certificate_hash": "31b908211861d2a9a90d7153213ec911069914a1"
+          }
+        },
+        {
+          "client_id": "391625304486-0sp4an3kdekce4pl2esqbt8gnmdjb07t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo3aD0c1IuD-e3eM8InAsdyDgRjv2sgW8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391625304486-0sp4an3kdekce4pl2esqbt8gnmdjb07t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="au.grp3.dat4.daphnidating.ui.DateSearchActivity">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="We're currently looking for a partner, to join you on your blind date. Feel free to close the app while we're looking. We'll notify you once we find the perfect person for you."
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="74dp"
+        android:padding="10dp"/>
+</android.support.constraint.ConstraintLayout>

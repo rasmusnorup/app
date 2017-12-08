@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name"><i>Daphni Dating</i></string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_create_date">CreateDateActivity</string>
+
+    <string name="api_key">AIzaSyA-I8fFrWbpaTJgt00V4T-9wq8pLhd3yuE</string>
+</resources>
