@@ -9,6 +9,7 @@
         <item name="android:colorBackground">@android:color/holo_red_dark</item>
         <item name="colorButtonNormal">@color/colorGold</item>
         <item name="android:textViewStyle">@style/WhiteTextView</item>
+        
     </style>
 
     <style name="WhiteTextView" parent="android:Widget.TextView">
